@@ -5,12 +5,13 @@ Website data: https://www.vgchartz.com/
   + Pandas
   + Seaborn
   + Mabplotib
+  
 ## Overview data:
 <img src="https://user-images.githubusercontent.com/85773711/135377845-b53e4564-01ff-486a-bdb6-7e62d78ebe62.png" width="600" height="600" align="center"/>
 <!-- ![image](https://user-images.githubusercontent.com/85773711/135377845-b53e4564-01ff-486a-bdb6-7e62d78ebe62.png) -->
 
 ## Analyze:
-
+  millions of units
 ### Gobal
 <!-- <img src="https://user-images.githubusercontent.com/85773711/135377923-3e0185c7-b073-4134-abb3-f7d43abc610c.png" width="450" height="450" align="center"/> -->
 ![image](https://user-images.githubusercontent.com/85773711/135377923-3e0185c7-b073-4134-abb3-f7d43abc610c.png)
