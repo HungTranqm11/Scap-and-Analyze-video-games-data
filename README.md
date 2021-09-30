@@ -6,7 +6,7 @@ Website data: https://www.vgchartz.com/
   + Seaborn
   + Mabplotib
 ## Overview data:
-<img src="https://user-images.githubusercontent.com/85773711/135377845-b53e4564-01ff-486a-bdb6-7e62d78ebe62.png" width="450" height="450" align="center"/>
+<img src="https://user-images.githubusercontent.com/85773711/135377845-b53e4564-01ff-486a-bdb6-7e62d78ebe62.png" width="600" height="600" align="center"/>
 <!-- ![image](https://user-images.githubusercontent.com/85773711/135377845-b53e4564-01ff-486a-bdb6-7e62d78ebe62.png) -->
 
 ## Analyze:
