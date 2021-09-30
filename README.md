@@ -22,3 +22,4 @@ Website data: https://www.vgchartz.com/
 ### Japan
 ![image](https://user-images.githubusercontent.com/85773711/135377989-660c3e31-5b73-4940-860e-044942eb52d8.png)
 
+Dashboard: https://datastudio.google.com/reporting/7e04f794-c83d-4a2a-a57a-7df7c69cab8d
